@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+DTSTAMP:20161004T082704Z
+UID:business-of-film-3
+DTSTART;VALUE=DATE:20161017
+DTEND;VALUE=DATE:20161127
+DESCRIPTION:Explore the intriguing world of film production and find out ab
+ out the complexities of development\, distribution and finance. \n\nIt star
+ ts from midnight UTC at:\n\nhttp://www.futurelearn.com/courses/business-of-
+ film/3
+LOCATION:Online - FutureLearn.com
+SUMMARY:The Business of Film
+URL:http://www.futurelearn.com/courses/business-of-film/3
+END:VEVENT
+END:VCALENDAR
